@@ -1,7 +1,7 @@
 import git
 
-studentName = "Kandika Prima"
-teacherName = "Putra"
+studentName = "Roger Fernando Loe"
+teacherName = "Mr. Ahmad Yazid"
 local_repo_path = "C:/Github Koding Next/Internet-of-Things"
 
 def git_pull_push(repo_path, student, teacher):
